@@ -42,5 +42,6 @@ Group Members:
 
  # A sequence diagram to represent the interaction of the proposed web application.
  
- 
+ ![Untitled Diagram drawio](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/cc1dc96b-24b1-4248-b0c8-3b96f16d63f3)
+
   
