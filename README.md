@@ -17,5 +17,26 @@ Group Members:
 # The objective of the proposed web application. 
 
   The restaurant reservation management system aims to allow customers to reserve their tables online, as it enables them to see any tables and times that are still available. This may ease customers by saving them time and making them more efficient. Plus, this system is used to keep the restaurant functioning by tracking customer reservations to avoid any overlapping reservations between customers happen. Moreover, this system can acknowledge managers or staff to keep customers informed by streamlining seating, managing table turnover, and estimating wait times. This improves the visitor experience and keeps the employees organized. Thus, the restaurant will be able to provide better service by better-controlling workflow through reservations. Therefore, by creating the restaurant reservation management system, we proposed this project to achieve the following objectives. 
+
+# Features and functionalities of the proposed web application.
+  • Insert new record for reservation
+  o Customer and staff can fill in form for reservation, by inserting
+  email, time and capacity
+  • Updating/edit record for reservation, customer and table
+  o Alter reservation information in case of customer request for
+  different timing, capcacity and table number
+  • Deleting past records
+  o Staff can delete past records of customer reservation and delete
+  cancelled reservation
+  • Organizing customer records
+  o Staff can organize and search through customer records
+  • Organizing staff schedule
+  o Staff can update their personal information and availability for the
+  week
+  • Updating employee records
+  o Staff can sort work schedule for the week base on staff availability
   
+ # Include ERD for your database tables with relationships.
+ 
+ 
   
