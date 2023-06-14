@@ -53,4 +53,20 @@
  
  ![Untitled Diagram drawio](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/cc1dc96b-24b1-4248-b0c8-3b96f16d63f3)
 
-  
+  <div class="col-lg-4 col-md-6 form-group mt-3" style="display: flex; flex-direction: column; background: transparent;">
+              <label for="cars" style="font-size: 12px;">Choose a table:</label>
+
+                <select name="table" id="table" class="px-2" style="min-height: 44px; background: transparent; color: #625b4b;">
+                <option value="" selected="true" disabled="true">Choose a table</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+          </div>
